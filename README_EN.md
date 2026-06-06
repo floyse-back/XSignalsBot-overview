@@ -1,10 +1,12 @@
-[🇺🇦 Читати українською](README_UK.md)
+[🇺🇦 Читати українською](README.md)
 
 # XSignalsBot
 
 **An intelligent, fully automated cryptocurrency signal analysis and trade execution platform.**
 
 XSignalsBot is a microservices-based system that ingests real-time market data and social sentiment signals, evaluates them through a suite of quantitative trading strategies, and autonomously executes trades on a cryptocurrency exchange. The platform also delivers actionable notifications to users via a Telegram bot, complete with position management, risk controls, and an administrative panel.
+
+> 🚀 **Try it in action (Live Demo):** The working Telegram bot is available here — **[@XSignalsBot](https://t.me/XSignalsBot)**
 
 ---
 
